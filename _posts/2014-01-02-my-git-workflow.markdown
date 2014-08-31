@@ -94,7 +94,8 @@ Merging a branch
 
 Git rebase is a really awesome way to handle feature branch workflow. Some of the definitions of rebase are pretty convoluted but here's basically what you need to know about how git rebase works:
 
-When you're working on a feature branch, rebasing the main development line into your feature branch will keep all of your feature branch commits at the head of the branch. - [Brad Robertson](http://infinitemonkeys.influitive.com/a-simple-explanation-for-git-rebase/)
+> "When you're working on a feature branch, rebasing the main development line into your feature branch will keep all of your feature branch commits at the head of the branch."
+> - [Brad Robertson](http://infinitemonkeys.influitive.com/a-simple-explanation-for-git-rebase/)
 
 Rebase works for your feature branches that aren't shared with your team. In other words, don't try rebasing into any shared branches (development, master, etc). If you do then everyone else will have to force pull your changes, and that's not helpful. 
 

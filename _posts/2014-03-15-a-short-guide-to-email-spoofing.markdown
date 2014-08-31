@@ -90,3 +90,5 @@ Note that there's a period [.] at the end. You will need that. Let's try this!
 	[psoshnin@tempest~] 
 
 And there you have it. Note: you might need to check your spam folder. 
+
+![Alt text](/assets/helloworld.png)
